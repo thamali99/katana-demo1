@@ -21,6 +21,10 @@ jobs:
         with:
           # just perform install
           runTests: false
+          record: true
+        env:
+          CYPRESS_RECORD_KEY: ${{secrets.CYPRESS_RECORD_KEY}}
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       # https://github.com/cypress-io/github-action
       - name: Run changed Cypress specs first 🌲
