@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build" :"rollup-c",
+    "start": "http-server",
     "cy:run": "cypress run"
   },
   "keywords": [],
