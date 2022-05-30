@@ -1,5 +1,6 @@
 {
     "baseUrl": "https://katanamrp.com",
+    "projectId": "u6i35p"
     "reporter": "cypress-multi-reporters",
     "chromeWebSecurity": false,
     "screenshotsFolder": "./cypress/snapshots/actual",
