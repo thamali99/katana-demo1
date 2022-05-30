@@ -7,7 +7,7 @@
     "build": "rollup -c",
     "start": "http-server",
     "cy:run": "cypress run"
-    "cy:run:@cytest": "cypress run --env" 
+    "cy:run:@cytest": "cypress run" 
   },
   "keywords": [],
   "author": "",
