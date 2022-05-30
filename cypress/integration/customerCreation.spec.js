@@ -34,7 +34,7 @@ describe('Create Customer', function () {
         customerPage.verifyURL()
     })
 
-    it('Add Customer', function () {
+    it('Adding a new Customer', function () {
         const customerPage = new CustomerPage()
         customerPage.fillFirstname(customerData.firstName)
             .fillLastname(customerData.lastName)
