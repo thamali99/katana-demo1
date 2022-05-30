@@ -1,0 +1,4 @@
+<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Mon, 30 May 2022 05:53:03 GMT" time="45.23">
+<testcase classname="Create a Sales order" name="Validate Sales Order page" time="22.16"/>
+<testcase classname="Create a Sales order" name="Add a Sales Order" time="22.948"/>
+</testsuite>

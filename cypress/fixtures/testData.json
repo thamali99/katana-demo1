@@ -1,0 +1,69 @@
+{
+    "user": {
+        "name": "Thamali Sugathadasa",
+        "email": "tsthamali@gmail.com",
+        "password": "Thamali1992@"
+    },
+    "customer": {
+        "firstName": "Thamali",
+        "lastName": "Test1",
+        "company": "Boost",
+        "email": "test@gmail.com",
+        "phone": "123456789",
+        "comment": "TestCustomer"
+    },
+    "billingDetails": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "company": "Boost",
+        "phone": "123456789",
+        "address": {
+            "line1": "testaddress1",
+            "line2": "testaddress2",
+            "city": "testtown1",
+            "state": "teststate1",
+            "zip": "testzip1",
+            "country": "testcountry"
+        }
+    },
+    "editBillingDetails": {
+        "firstName": "Samueli",
+        "lastName": "Gabrieli",
+        "company": "Test Company1",
+        "phone": "567834211",
+        "address": {
+            "line1": "testaddress123",
+            "line2": "testaddress123",
+            "city": "testtown123",
+            "state": "teststate123",
+            "zip": "testzip123",
+            "country": "testcountry123"
+        }
+    },
+    "shippingDetails": {
+        "firstName": "Doe",
+        "lastName": "Marshell",
+        "company": "Test Company 2",
+        "phone": "678910",
+        "address": {
+            "line1": "testaddress11",
+            "line2": "testaddress22",
+            "city": "testtown12",
+            "state": "teststate12",
+            "zip": "testzip12",
+            "country": "testcountry12"
+        }
+    },
+    "salesOrderDetails": {
+        "customerName": "Test User",
+        "salesOrderNumber": "SO-43"
+    },
+    "productDetails": {
+        "variantCode": "M-2",
+        "salesPrice": "10"
+    },
+    "salesOrderTrackingData": {
+        "trackingNo": "1234",
+        "trackingUrl": "https://www.abc.com"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "KatanaDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-multi-reporters": "^1.6.0"
+  }
+}

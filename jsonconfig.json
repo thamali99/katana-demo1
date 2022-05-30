@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "esModuleInterop": true,
+    "types": [
+      "cypress",
+      "cypress-visual-regression",
+      "cypress-grep",
+      "@testing-library/cypress",
+      "cypress-real-events"
+    ]
+  },
+
+    "include" : [
+        "./node_modules/cypress",
+        "cypress/**/*.js"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://katanamrp.com",
+    "reporter": "cypress-multi-reporters",
+    "chromeWebSecurity": false,
+    "screenshotsFolder": "./cypress/snapshots/actual",
+    "pageLoadTimeout": 60000,
+    "pluginsFile": "cypress/plugins",
+    "viewportWidth": 2000,
+    "viewportHeight": 1200
+}
